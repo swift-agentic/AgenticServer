@@ -31,7 +31,7 @@
     {
       "identity" : "ansi",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/leviouwendijk/ANSI.git",
+      "location" : "https://github.com/swift-lco/ANSI.git",
       "state" : {
         "branch" : "master",
         "revision" : "073d9ca7870b688a312608acf14eae6ba052c0d6"
@@ -40,7 +40,7 @@
     {
       "identity" : "arguments",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/leviouwendijk/Arguments.git",
+      "location" : "https://github.com/swift-lco/Arguments.git",
       "state" : {
         "branch" : "master",
         "revision" : "bb9985bc8225bc5300997ce6378d16ad37f92989"
@@ -49,7 +49,7 @@
     {
       "identity" : "atomos",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/leviouwendijk/Atomos.git",
+      "location" : "https://github.com/swift-lco/Atomos.git",
       "state" : {
         "branch" : "master",
         "revision" : "5ffdb160c4913e02214020eb75ac620900cf2914"
@@ -58,7 +58,7 @@
     {
       "identity" : "clipboard",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/leviouwendijk/Clipboard.git",
+      "location" : "https://github.com/swift-lco/Clipboard.git",
       "state" : {
         "branch" : "master",
         "revision" : "01f5f9aa53fe3dd2cb3e227117e4a850e4be05c6"
@@ -67,7 +67,7 @@
     {
       "identity" : "concatenation",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/leviouwendijk/Concatenation.git",
+      "location" : "https://github.com/swift-lco/Concatenation.git",
       "state" : {
         "branch" : "master",
         "revision" : "8c9314ed63ba7b8ebd1df7c729c4244a154f6286"
@@ -76,7 +76,7 @@
     {
       "identity" : "cryptography",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/leviouwendijk/Cryptography.git",
+      "location" : "https://github.com/swift-lco/Cryptography.git",
       "state" : {
         "branch" : "master",
         "revision" : "10e8288325e537cb37fdceb9a3c64273027ce944"
@@ -85,7 +85,7 @@
     {
       "identity" : "difference",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/leviouwendijk/Difference.git",
+      "location" : "https://github.com/swift-lco/Difference.git",
       "state" : {
         "branch" : "master",
         "revision" : "df94b0fb6edef42c9a09d726d2246d5d996cac20"
@@ -103,7 +103,7 @@
     {
       "identity" : "errors",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/leviouwendijk/Errors.git",
+      "location" : "https://github.com/swift-lco/Errors.git",
       "state" : {
         "branch" : "master",
         "revision" : "aa392c50c6f811056067b65fab5112104c8adc49"
@@ -112,7 +112,7 @@
     {
       "identity" : "excerpt",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/leviouwendijk/Excerpt.git",
+      "location" : "https://github.com/swift-lco/Excerpt.git",
       "state" : {
         "branch" : "master",
         "revision" : "9369604e8cfe761588003c61ed849462ca8fb14e"
@@ -121,7 +121,7 @@
     {
       "identity" : "filetypes",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/leviouwendijk/FileTypes.git",
+      "location" : "https://github.com/swift-lco/FileTypes.git",
       "state" : {
         "branch" : "master",
         "revision" : "f0c1d8bf5beda0de51c9e95b687fbdec9e4ce7b0"
@@ -130,7 +130,7 @@
     {
       "identity" : "fuzzy",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/leviouwendijk/Fuzzy.git",
+      "location" : "https://github.com/swift-lco/Fuzzy.git",
       "state" : {
         "branch" : "master",
         "revision" : "1e85de71c36f7414511320584ea7373af4334019"
@@ -166,7 +166,7 @@
     {
       "identity" : "indentation",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/leviouwendijk/Indentation.git",
+      "location" : "https://github.com/swift-lco/Indentation.git",
       "state" : {
         "branch" : "master",
         "revision" : "8b85325433aa97ee19c9c77f564500be189978d6"
@@ -175,7 +175,7 @@
     {
       "identity" : "io",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/leviouwendijk/IO.git",
+      "location" : "https://github.com/swift-lco/IO.git",
       "state" : {
         "branch" : "master",
         "revision" : "5e88720439dc8f782034b6f9f8374c61ef1707f0"
@@ -184,7 +184,7 @@
     {
       "identity" : "loggers",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/leviouwendijk/Loggers.git",
+      "location" : "https://github.com/swift-lco/Loggers.git",
       "state" : {
         "branch" : "master",
         "revision" : "e4fc51fc8bb3ce93f7e12689358ecaf56f801cf1"
@@ -193,7 +193,7 @@
     {
       "identity" : "macros",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/leviouwendijk/Macros.git",
+      "location" : "https://github.com/swift-lco/Macros.git",
       "state" : {
         "branch" : "master",
         "revision" : "e01a42e9d0ee8061e861bc68c1fb2a02d26cbde4"
@@ -202,7 +202,7 @@
     {
       "identity" : "matching",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/leviouwendijk/Matching.git",
+      "location" : "https://github.com/swift-lco/Matching.git",
       "state" : {
         "branch" : "master",
         "revision" : "5ac7de66e96468fb00a5fb5748fd85101a009968"
@@ -211,7 +211,7 @@
     {
       "identity" : "math",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/leviouwendijk/Math.git",
+      "location" : "https://github.com/swift-lco/Math.git",
       "state" : {
         "branch" : "master",
         "revision" : "5a357079d1418897dc525712acd656e520a6250d"
@@ -220,7 +220,7 @@
     {
       "identity" : "methods",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/leviouwendijk/Methods.git",
+      "location" : "https://github.com/swift-lco/Methods.git",
       "state" : {
         "branch" : "master",
         "revision" : "1a98599ae3c5d65eb5793e0f02b99e869dbfc9c5"
@@ -229,7 +229,7 @@
     {
       "identity" : "milieu",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/leviouwendijk/Milieu.git",
+      "location" : "https://github.com/swift-lco/Milieu.git",
       "state" : {
         "branch" : "master",
         "revision" : "4583182baf00cccbbdd271942819c8e774cf2194"
@@ -256,7 +256,7 @@
     {
       "identity" : "partition",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/leviouwendijk/Partition.git",
+      "location" : "https://github.com/swift-lco/Partition.git",
       "state" : {
         "branch" : "master",
         "revision" : "75c760b64555f8b5ee170f6bc9f9e5cbf8590475"
@@ -265,7 +265,7 @@
     {
       "identity" : "path",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/leviouwendijk/Path.git",
+      "location" : "https://github.com/swift-lco/Path.git",
       "state" : {
         "branch" : "master",
         "revision" : "eea4c72be87e58634f3654bd1783a5209fe82ff0"
@@ -274,7 +274,7 @@
     {
       "identity" : "position",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/leviouwendijk/Position.git",
+      "location" : "https://github.com/swift-lco/Position.git",
       "state" : {
         "branch" : "master",
         "revision" : "f4b2a54d00898e52111ac452b851cb00cf9538aa"
@@ -283,7 +283,7 @@
     {
       "identity" : "primitives",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/leviouwendijk/Primitives.git",
+      "location" : "https://github.com/swift-lco/Primitives.git",
       "state" : {
         "branch" : "master",
         "revision" : "93f06221b2835f3e4a378824cde2e5752c900ba5"
@@ -292,7 +292,7 @@
     {
       "identity" : "processes",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/leviouwendijk/Processes.git",
+      "location" : "https://github.com/swift-lco/Processes.git",
       "state" : {
         "branch" : "master",
         "revision" : "fd80e207fa60faed206d51c14bac570aa033e2e7"
@@ -310,7 +310,7 @@
     {
       "identity" : "ranking",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/leviouwendijk/Ranking.git",
+      "location" : "https://github.com/swift-lco/Ranking.git",
       "state" : {
         "branch" : "master",
         "revision" : "2ef45291376aa3b4e868d963acde506891be4769"
@@ -319,7 +319,7 @@
     {
       "identity" : "readers",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/leviouwendijk/Readers.git",
+      "location" : "https://github.com/swift-lco/Readers.git",
       "state" : {
         "branch" : "master",
         "revision" : "e9b967413538320ef2cae3bcecfc2edc6f11933b"
@@ -328,7 +328,7 @@
     {
       "identity" : "schema",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/leviouwendijk/Schema.git",
+      "location" : "https://github.com/swift-lco/Schema.git",
       "state" : {
         "branch" : "master",
         "revision" : "a3b2d62e52cb7e061d5a5cdadb63f4d31684dd4d"
@@ -337,7 +337,7 @@
     {
       "identity" : "search",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/leviouwendijk/Search.git",
+      "location" : "https://github.com/swift-lco/Search.git",
       "state" : {
         "branch" : "master",
         "revision" : "0ad0d4d49e7a6ef5edb1ccfc1b4b1aaa5a9548f0"
@@ -346,7 +346,7 @@
     {
       "identity" : "selection",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/leviouwendijk/Selection.git",
+      "location" : "https://github.com/swift-lco/Selection.git",
       "state" : {
         "branch" : "master",
         "revision" : "64eeaf22f35a548ea61cace15a8bba87479f101b"
@@ -364,7 +364,7 @@
     {
       "identity" : "strings",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/leviouwendijk/Strings.git",
+      "location" : "https://github.com/swift-lco/Strings.git",
       "state" : {
         "branch" : "master",
         "revision" : "86a939d7bbb3e25808f88fbcedcee4069a5a5ae1"
@@ -400,7 +400,7 @@
     {
       "identity" : "terminal",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/leviouwendijk/Terminal.git",
+      "location" : "https://github.com/swift-lco/Terminal.git",
       "state" : {
         "branch" : "master",
         "revision" : "dfa15c979febaf93c8165a921f69a852e4382547"
@@ -436,7 +436,7 @@
     {
       "identity" : "variables",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/leviouwendijk/Variables.git",
+      "location" : "https://github.com/swift-lco/Variables.git",
       "state" : {
         "branch" : "master",
         "revision" : "3e118cecca53a964099a0afe495e53fe9b325ff0"
@@ -445,7 +445,7 @@
     {
       "identity" : "version",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/leviouwendijk/Version.git",
+      "location" : "https://github.com/swift-lco/Version.git",
       "state" : {
         "branch" : "master",
         "revision" : "2c387c9743e91aa9077f7d0eb7735403f4b6e2fc"
@@ -454,7 +454,7 @@
     {
       "identity" : "workspace",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/leviouwendijk/Workspace.git",
+      "location" : "https://github.com/swift-lco/Workspace.git",
       "state" : {
         "branch" : "master",
         "revision" : "2bfc5c4b032592d316d9349222a7dde92edccc7a"
@@ -463,7 +463,7 @@
     {
       "identity" : "writers",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/leviouwendijk/Writers.git",
+      "location" : "https://github.com/swift-lco/Writers.git",
       "state" : {
         "branch" : "master",
         "revision" : "bd547e8becb5adc069a89d0ad4bc809252697730"
